@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohan Koruprolu</h1>
-<h3 align="center">A passionate CS undergrad</h3>
+<h3 align="center">A CS undergrad</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/966681/screenshots/2896143/media/0434fa69ebb7390c11fb38c2cb934353.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
