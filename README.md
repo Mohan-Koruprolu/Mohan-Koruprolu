@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohan Koruprolu</h1>
 <h3 align="center">A passionate CS undergrad</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/ROORdesign/collections/1317193-PFP-s">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/2896143-Keep-Working">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@mohan_koruprolu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mohan_koruprolu" height="30" width="40" /></a>
