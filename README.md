@@ -1,3 +1,4 @@
+![MasterHead](https://exploringbits.com/wp-content/uploads/2022/01/discord-banner-4.gif)
 <h1 align="center">Hi 👋, I'm Mohan Koruprolu</h1>
 <h3 align="center">CS undergrad</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/966681/screenshots/2896143/media/0434fa69ebb7390c11fb38c2cb934353.gif">
