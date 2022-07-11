@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohan Koruprolu</h1>
 <h3 align="center">A passionate CS undergrad</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/2896143-Keep-Working">
+<img align="right" alt="Coding" width="400" src="[https://dribbble.com/shots/2896143-Keep-Working](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/de922df2-7feb-40a0-acd4-febd59435082/d6118dw-7359d439-d202-46af-8df7-864972d1dd67.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RlOTIyZGYyLTdmZWItNDBhMC1hY2Q0LWZlYmQ1OTQzNTA4MlwvZDYxMThkdy03MzU5ZDQzOS1kMjAyLTQ2YWYtOGRmNy04NjQ5NzJkMWRkNjcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-eiMyOKx51jnnCy7jfz6f5wzX07SIC2JbJslCY0APM0)">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@mohan_koruprolu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mohan_koruprolu" height="30" width="40" /></a>
